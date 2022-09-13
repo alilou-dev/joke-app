@@ -12,3 +12,4 @@ jobs:
         run: |
           export NAME=Mathias
           echo the $NAME
+          
